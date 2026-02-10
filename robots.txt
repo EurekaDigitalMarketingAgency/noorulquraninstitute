@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eurekadigitalmarketingagency.github.io/noorulquraninstitute/sitemap.xml
